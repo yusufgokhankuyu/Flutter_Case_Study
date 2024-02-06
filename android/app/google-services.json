@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499642911597",
+    "project_id": "hero-games-a28e8",
+    "storage_bucket": "hero-games-a28e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499642911597:android:20d013f23faea6c98be864",
+        "android_client_info": {
+          "package_name": "com.example.hero_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs9mWtGiuXtOklfn0ZltaUyZ_x1TPsRho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
